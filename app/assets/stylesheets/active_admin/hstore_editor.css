@@ -1,7 +1,4 @@
-/*
- *= require jsoneditor/jsoneditor
- *= depend_on_asset "jsoneditor/img/jsoneditor-icons.png"
- */
+@import 'jsoneditor/jsoneditor';
 
 .jsoneditor-wrap textarea {
   display: none;
